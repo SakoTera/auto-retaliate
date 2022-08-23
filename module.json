@@ -1,0 +1,12 @@
+{
+    "author": "Sako",
+    "description": "Auto Retaliate if you knocked down",
+    "disableAutoUpdate": true,
+    "donationUrl": "https://funpay.com/users/1875741/",
+    "name": "Auto-Retaliate",
+    "niceName": "Auto-Retaliate",
+    "guiName": "Auto-Retaliate",
+    "servers": [""],
+    "supportUrl": "",
+    "version": "92.03-100.2"
+}
